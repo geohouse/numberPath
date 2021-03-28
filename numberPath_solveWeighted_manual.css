@@ -1,0 +1,12 @@
+
+#forward-button{
+    background-color: yellowgreen;
+    width: 150px;
+    height: 20px;
+}
+
+.empty-cell{
+    background-color: lightgreen;
+    width: 20px;
+    height: 20px;
+}

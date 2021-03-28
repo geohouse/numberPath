@@ -1,0 +1,49 @@
+
+#forward-button{
+    background-color: yellowgreen;
+    width: 200px;
+    height: 40px;
+}
+
+#backward-button{
+    background-color: orangered;
+    width: 200px;
+    height: 40px;
+}
+
+#num-generated{
+    background-color: greenyellow;
+}
+td{
+    background-color: lightseagreen;
+    width: 20px;
+    height: 20px;
+    /*border: solid;*/
+    border: solid black 1px;
+    text-align:center;
+    /* If change the font size here, need to change the amount of padding below to compensate to make the cells
+    consistently the same sizes whether they have an entry or not */
+    font-size:18px;
+    padding: 1px;
+    
+    
+}
+
+.easy{
+    background-color: lightgreen;
+    width: 70px;
+}
+
+.medium{
+    background-color: gold;
+    width: 70px;
+}
+
+.hard{
+    background-color: red;
+    width: 70px;
+}
+
+.trace{
+    background-color:red;
+}

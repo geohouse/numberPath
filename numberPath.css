@@ -1,0 +1,17 @@
+.chosen-path{
+    background-color: teal;
+    width: 20px;
+    height: 20px;
+}
+
+.non-path{
+    background-color: goldenrod;
+    width: 20px;
+    height: 20px;
+}
+
+#forward-button{
+    background-color: yellowgreen;
+    width: 150px;
+    height: 20px;
+}
